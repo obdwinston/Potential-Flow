@@ -10,4 +10,4 @@
 
 # Vortex Panel Method
 
-![Figure 1](https://user-images.githubusercontent.com/104728656/175947557-7060aa1d-c55d-4ff3-9522-9c15c94b3d04.png)
+![Figure 1](https://user-images.githubusercontent.com/104728656/175972455-39ff01ab-c8b2-486c-9533-eb23432e8e92.png)
