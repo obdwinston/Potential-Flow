@@ -1,8 +1,8 @@
-# Linear Vortex Panel Method for NACA Airfoil
+# Linear Vortex Panel Method
 
 ![Figure 1](https://user-images.githubusercontent.com/104728656/182766638-679fe23a-b249-496e-ba44-113b710c4a00.png)
 
-# Vortex Ring Panel Method for NACA Wing
+# Vortex Ring Panel Method
 
 ![Figure 1](https://user-images.githubusercontent.com/104728656/175836733-396ee772-5848-4df4-a93c-414c69cab2d5.png)
 
